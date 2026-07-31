@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ranjo!
 
-<!--
-**xaris-tech/xaris-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer and builder who loves using technology to solve real-world problems. Whether it is creating easy-to-use applications, automating everyday tasks, or exploring new ideas, I enjoy turning helpful ideas into practical digital tools.
 
-Here are some ideas to get you started:
+## 🌟 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🛠️ **Build & Create:** Design simple, user-friendly software and digital solutions.
+* ⚡ **Automate:** Find smart ways to streamline workflow processes and everyday tasks.
+* 💡 **Learn & Explore:** Continuously experiment with new ideas and emerging technology.
+
+## 🤝 Let's Connect!
+
+* 📧 **Email:** ranjovidad@gmail.com
+* 💼 **LinkedIn:** linkedin.com/in/ranjo-vidad
+* 🌐 **Portfolio:** ranjo-xaris.web.app
+---
+
+> *"Building thoughtful digital experiences, one project at a time."*
