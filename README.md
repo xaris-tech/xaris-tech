@@ -25,6 +25,12 @@ I am a passionate developer and builder who loves using technology to solve real
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### AI & Agent Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agent SDK](https://img.shields.io/badge/Agent_SDK-0052CC?style=for-the-badge&logo=robot&logoColor=white)
+![ADK](https://img.shields.io/badge/Agent_Dev_Kit-4A154B?style=for-the-badge&logo=probot&logoColor=white)
+
 ### Web & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
