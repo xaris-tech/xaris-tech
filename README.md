@@ -26,6 +26,7 @@ I am a passionate developer and builder who loves using technology to solve real
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### AI & Agent Frameworks
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-1A1A1A?style=for-the-badge&logo=probot&logoColor=FFD700)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Claude SDK](https://img.shields.io/badge/Claude_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
