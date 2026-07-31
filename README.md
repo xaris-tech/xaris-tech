@@ -27,9 +27,9 @@ I am a passionate developer and builder who loves using technology to solve real
 
 ### AI & Agent Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Agent SDK](https://img.shields.io/badge/Agent_SDK-0052CC?style=for-the-badge&logo=robot&logoColor=white)
-![ADK](https://img.shields.io/badge/Agent_Dev_Kit-4A154B?style=for-the-badge&logo=probot&logoColor=white)
+![Claude SDK](https://img.shields.io/badge/Claude_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![OpenAI Agent SDK](https://img.shields.io/badge/OpenAI_Agent_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Web & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
